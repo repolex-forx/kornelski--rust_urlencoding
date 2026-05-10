@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "kornelski",
+  "repo": "rust_urlencoding",
+  "versions": [
+    {
+      "commit": "b987b1a1e98e2d4190b6e2a07262a680120c422c",
+      "parsed_at": "2026-05-10T09:57:51.969596+00:00",
+      "tag": "v2.1.2",
+      "filetree": "filetree/b987b1a1e98e2d4190b6e2a07262a680120c422c.nq.gz",
+      "blobs": [
+        "blob/52dd055263f9c6d3a1d812df3db118cecec8ef1f.nq.gz",
+        "blob/3134060f6dce881a79133213c358758ab722ebd5.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz",
+        "blob/aa44542e3b3dd1ec07314f2becb386716f713ae1.nq.gz",
+        "blob/291937fb0de795fada6f513a74fd622ed6ed0b85.nq.gz",
+        "blob/b6dc18c4b17e1dc6f7f7cf5b95ef9d89958992e8.nq.gz",
+        "blob/ccf95bbad7454fc2f42cc47d5af92ceac7bc8d9d.nq.gz",
+        "blob/1f2e560fdef54460894129c89382da7b61ee5481.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
